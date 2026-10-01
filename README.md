@@ -1,5 +1,9 @@
 # 📚 Hindawi University RAG Assistant
 
+🌐 **Live Demo:** https://hindawi-university-rag-mm9vded9tstckf8oxehkps.streamlit.app/
+
+A Retrieval-Augmented Generation (RAG) application built with Streamlit...
+
 A Retrieval-Augmented Generation (RAG) application built with Streamlit that allows users to ask questions about Hindawi University information stored in a PDF document.
 
 ## 🚀 Project Overview
